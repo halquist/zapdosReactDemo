@@ -1,0 +1,22 @@
+.type {
+  background-color: black;
+  color: gold;
+  border-radius: 4px;
+}
+
+.move {
+  background-color: gold;
+  color: black;
+  border-radius: 4px;
+}
+
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.centerText {
+  text-align: center;
+}
